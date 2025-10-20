@@ -8,5 +8,5 @@ read name
 
 # Affiche un message de bienvenue
 echo "-----------------------------------"
-echo "í±‹ Bienvenue, $name ! Ravi de te voir ici."
+echo "í±‹ bonsoir, $name ! Ravi de te voir ici."
 echo "-----------------------------------"
